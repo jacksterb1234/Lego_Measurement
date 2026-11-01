@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Lib") (type "KiCad") (uri "C:/Users/jacks/Documents/Lego_Measurement/Lib.pretty") (options "") (descr ""))
+)
